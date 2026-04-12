@@ -1,0 +1,12 @@
+# Ignore data files
+*.csv
+
+# Ignore raw data folder
+raw/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
