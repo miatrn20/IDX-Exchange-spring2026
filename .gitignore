@@ -1,12 +1,12 @@
-# Ignore data files
+# data files
 *.csv
-
-# Ignore raw data folder
 raw/
 
-# Python cache
+# protected scripts
+crmls_sold.py
+crmls_listed.py
+
+# python/jupyter cache
 __pycache__/
 .ipynb_checkpoints/
-
-# system files
 .DS_Store
